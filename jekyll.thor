@@ -19,7 +19,6 @@ class Jekyll < Thor
       post.puts "categories: [Blog]"
       post.puts "tags: [blog, coding, computer-science]"
       post.puts "pin: false"
-      post.puts " -"
       post.puts "---"
     end
 
