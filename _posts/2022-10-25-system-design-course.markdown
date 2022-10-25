@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "System Design Course"
 author: Samir Paul
 categories: [Blog]
