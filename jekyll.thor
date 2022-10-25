@@ -15,11 +15,19 @@ class Jekyll < Thor
     open(filename, 'w') do |post|
       post.puts "---"
       post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+      post.puts "description: \"#{title.gsub(/&/,'&amp;')}\""
+      post.puts "image:"
+      post.puts "  path: '/assets/img/blog-featured-image.jpg'"
+      post.puts "  width: 1000"
+      post.puts "  height: 400"
+      post.puts "  alt: \"#{title.gsub(/&/,'&amp;')}\""
       post.puts "categories: [Blog]"
       post.puts "tags: [blog, coding, computer-science]"
+      post.puts "published: true"
+      post.puts "sitemap: true"
       post.puts "pin: false"
       post.puts "---"
-    end
+    end 
 
     system(options[:editor], filename)
   end

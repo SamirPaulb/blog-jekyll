@@ -28,6 +28,6 @@ gem 'jekyll-gist'
 gem 'jekyll-feed'
 gem 'jemoji'
 gem 'jekyll-include-cache'
+gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'thor'
 gem 'stringex'
-gem 'jekyll-compose', group: [:jekyll_plugins]

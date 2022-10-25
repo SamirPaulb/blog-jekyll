@@ -171,7 +171,7 @@ defaults:
 
 # ---- Jekyll-Compose ---------
 jekyll_compose:
-  default_front_matter:
+  default_front_matter: 
     posts:
       description: New Blog Post  # Change It ------
       image:
