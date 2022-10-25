@@ -13,7 +13,7 @@ pin: false
 
 ### The Study Plan
 
-- [What is it?](#what-is-it)
+- [What is it?](#)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
@@ -260,7 +260,7 @@ You need to be very comfortable in the language and be knowledgeable.
 Read more about choices: 
 - [Choose the Right Language for Your Coding Interview](http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/)
 
-[See language-specific resources here](programming-language-resources.md)
+
 
 ## Books for Data Structures and Algorithms
 
