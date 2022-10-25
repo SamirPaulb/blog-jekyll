@@ -16,7 +16,6 @@ class Jekyll < Thor
       post.puts "---"
       post.puts "layout: post"
       post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
-      post.puts "author: Samir Paul"
       post.puts "categories: [Blog]"
       post.puts "tags: [blog, coding, computer-science]"
       post.puts "pin: false"
