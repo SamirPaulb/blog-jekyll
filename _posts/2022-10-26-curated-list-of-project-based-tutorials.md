@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Curated List of Project Based Tutorials
-date: 2022-10-26 00:32 +0530
 description: Curated List of Project Based Tutorials
 image:
   path: "/assets/img/blog-featured-image.jpg"
@@ -27,7 +26,7 @@ sitemap: true
 
 
 
-
+ 
 
 # Project Based Learning
 

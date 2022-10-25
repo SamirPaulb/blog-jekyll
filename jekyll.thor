@@ -14,6 +14,7 @@ class Jekyll < Thor
     puts "Creating new post: #{filename}"
     open(filename, 'w') do |post|
       post.puts "---"
+      post.puts "layout: post"
       post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
       post.puts "description: \"#{title.gsub(/&/,'&amp;')}\""
       post.puts "image:"

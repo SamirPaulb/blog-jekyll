@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "List of Python Frameworks Libraries Software and Resources"
 description: "List of Python Frameworks Libraries Software and Resources"
 image:
