@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Complete Computer Science Study Plan to Become a Software Engineer"
 categories: [Computer Science]
 tags: [blog, coding, computer-science, coding, study-plan, software-engineer, developer]
