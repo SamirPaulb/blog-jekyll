@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 5.3", ">= 5.3.1"
+gem "jekyll-theme-chirpy", "~> 5.3", ">= 5.3.0"
 
 group :test do
   gem "html-proofer", "~> 3.18"
@@ -29,7 +29,6 @@ gem 'jekyll-gist'
 gem 'jekyll-feed'
 gem 'jemoji'
 gem 'jekyll-include-cache'
-gem "github-pages"
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'thor'
 gem 'stringex'
