@@ -169,6 +169,23 @@ defaults:
     values:
       swcache: true
 
+# ---- Jekyll-Compose ---------
+jekyll_compose:
+  default_front_matter:
+    posts:
+      description: New Blog Post  # Change It ------
+      image:
+        path: /assets/img/blog-featured-image.jpg
+        width: 1000   # in pixels
+        height: 400   # in pixels
+        alt: New Blog Post        # Change It ------
+      category: [Blog]
+      tags: [blog, coding, computer-science]
+      published: true
+      sitemap: true
+
+
+
 sass:
   style: compressed
 

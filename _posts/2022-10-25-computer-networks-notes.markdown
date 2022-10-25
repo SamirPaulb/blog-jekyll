@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Computer Networks Notes"
 categories: [Computer Science]
 tags: [blog, coding, computer-science, coding,computer-science,computer-networks,computer-networks-notes,notes,computernetwork,computernetworking,computer,ipv,icnd,computertechnology,ccna,routingandswitching,networking,osi-model,computernetworkingtechnology]
