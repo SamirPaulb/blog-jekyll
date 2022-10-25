@@ -23,7 +23,7 @@ timezone:
 
 title: Samir Paul                          # the main title
 
-tagline: Technical Blog   # it will display as the sub-title
+tagline:    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -170,20 +170,19 @@ defaults:
       swcache: true
 
 # ---- Jekyll-Compose ---------
-jekyll_compose:
-  default_front_matter: 
-    posts:
-      description: New Blog Post  # Change It ------
-      image:
-        path: /assets/img/blog-featured-image.jpg
-        width: 1000   # in pixels
-        height: 400   # in pixels
-        alt: New Blog Post        # Change It ------
-      category: [Blog]
-      tags: [blog, coding, computer-science]
-      published: true
-      sitemap: true
-
+# jekyll_compose:
+#   default_front_matter: 
+#     posts:
+#       description: New Blog Post  # Change It ------
+#       image:
+#         path: /assets/img/blog-featured-image.jpg
+#         width: 1000   # in pixels
+#         height: 400   # in pixels
+#         alt: New Blog Post        # Change It ------
+#       category: [Blog]
+#       tags: [blog, coding, computer-science]
+#       published: true
+#       sitemap: true
 
 
 sass:

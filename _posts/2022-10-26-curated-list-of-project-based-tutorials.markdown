@@ -1,13 +1,22 @@
 ---
 layout: post
 title: "Curated List of Project Based Tutorials"
-category: [Projects]
-tags: [blog,coding,computer-science,coding,computer-science,projects,tutorials,list-of-project-based-tutorials]
+description: "Curated List of Project Based Tutorials"
+image:
+  path: '/assets/img/blog-featured-image.jpg'
+  width: 1000
+  height: 400
+  alt: "Curated List of Project Based Tutorials"
+categories: [Projects]
+tags: [blog, coding, computer-science, coding,computer-science,projects,tutorials,list-of-project-based-tutorials]
+published: true
+sitemap: true
+pin: false
 ---
 
 
 
- 
+
 
 # Project Based Learning
 
