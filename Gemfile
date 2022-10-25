@@ -29,6 +29,7 @@ gem 'jekyll-gist'
 gem 'jekyll-feed'
 gem 'jemoji'
 gem 'jekyll-include-cache'
+gem "github-pages"
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'thor'
 gem 'stringex'
