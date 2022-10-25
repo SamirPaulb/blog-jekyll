@@ -119,6 +119,9 @@ assets:
 pwa:
   enabled: true   # the option for PWA feature
 
+# Incremental Regeneration
+incremental: true
+
 paginate: 10
 
 # ------------ The following options are not recommended to be modified ------------------
