@@ -20,3 +20,13 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # Jekyll <= 4.2.0 compatibility with Ruby 3.0
 gem "webrick", "~> 1.7"
+gem 'thor'
+gem 'stringex'
+gem 'jekyll-seo-tag'
+gem 'jekyll-target-blank'
+gem 'jekyll-sitemap'
+gem 'jekyll-paginate'
+gem 'jekyll-gist'
+gem 'jekyll-feed'
+gem 'jemoji'
+gem 'jekyll-include-cache'
