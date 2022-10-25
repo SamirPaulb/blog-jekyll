@@ -1,26 +1,9 @@
 ---
 layout: post
 title: "Curated List of Project Based Tutorials"
-description: "Curated List of Project Based Tutorials"
-image: 
-  path: "/assets/img/blog-featured-image.jpg"
-  width: 1000
-  height: 400
-  alt: "Curated List of Project Based Tutorials"
-category:
-- Projects
-tags:
-- blog
-- coding
-- computer-science
-- coding
-- computer-science
-- projects
-- tutorials
-- list-of-project-based-tutorials
+category: [Projects]
+tags: [blog,coding,computer-science,coding,computer-science,projects,tutorials,list-of-project-based-tutorials]
 ---
-
-
 
 
 
