@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 5.3", ">= 5.3.0"
+gem "jekyll-theme-chirpy", "~> 5.3", ">= 5.3.1"
 
 group :test do
   gem "html-proofer", "~> 3.18"
@@ -21,6 +21,8 @@ gem 'faraday-retry', '~> 2.0'
 
 # Jekyll <= 4.2.0 compatibility with Ruby 3.0
 gem "webrick", "~> 1.7"
+
+# Extended features
 gem 'jekyll-seo-tag'
 gem 'jekyll-target-blank'
 gem 'jekyll-sitemap'
@@ -32,3 +34,4 @@ gem 'jekyll-include-cache'
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'thor'
 gem 'stringex'
+gem 'jekyll-pwa-plugin', "= 2.2.3"
