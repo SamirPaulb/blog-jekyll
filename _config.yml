@@ -265,4 +265,5 @@ plugins:
   - jekyll-include-cache
   - jekyll-target-blank
   - jekyll-pwa-plugin
-  - amp-jekyll
+
+  # - amp-jekyll

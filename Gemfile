@@ -35,5 +35,6 @@ gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'thor'
 gem 'stringex'
 gem 'jekyll-pwa-plugin', "= 2.2.3"
-gem 'amp-jekyll', '~> 1.0', '>= 1.0.2'
 gem 'fastimage', '~> 2.2', '>= 2.2.6'
+
+# gem 'amp-jekyll', '~> 1.0', '>= 1.0.2'
