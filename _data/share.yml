@@ -21,4 +21,4 @@ platforms:
   -
     type: WhatsApp
     icon: "fab fa-whatsapp"
-    link: "https://api.whatsapp.com/send?text=TITLE&url=URL"
+    link: "https://api.whatsapp.com/send?text=URL"
