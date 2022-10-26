@@ -2299,10 +2299,10 @@ discards it by making some changes on the previous step, ie *backtracks* and the
 Here is a backtrack function backtrack(combination, next_digits) which takes as arguments an ongoing 
 letter combination and the next digits to check. 
 
-* If there are no more digits to check that means the current combination is done 
-* If there are still digits to check: 
-	* Iterate over the letters mapping to the next available digit
-	* Append the current letter to the current combination and proceed to check next digits: 
+- If there are no more digits to check that means the current combination is done 
+- If there are still digits to check: 
+	- Iterate over the letters mapping to the next available digit
+	- Append the current letter to the current combination and proceed to check next digits: 
 
 
 ```
@@ -2314,32 +2314,11 @@ letter combination and the next digits to check.
 
 **Visual Representation** 
 
-```
-					
-						"2 3"
+![Visual Representation](https://raw.githubusercontent.com/SamirPaulb/assets/main/Screenshot-2022-10-26-180426.png)
 
-						 
-						  2
-						
-					      /   |   \
-                                            
-					     a    b    c
-                                       
-
-				         /        |        \
-
-                                       
-				      3           3            3
-
-				    / | \       / | \        / | \
-
-				   d  e  f     d  e  f      d  e  f
-
-				
-			["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"]
-```
 
 ```java 
+
 class Solution {
 	Map<String, String> phone = new HashMap<String, String>() {{
 		put("2", "abc"); 
@@ -2388,6 +2367,7 @@ class Solution {
 		return output;
 	}
 }
+
 ```
 
 **Complexity Analysis** 

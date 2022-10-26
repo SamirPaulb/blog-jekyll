@@ -166,7 +166,7 @@ defaults:
     values:
       layout: post
       comments: true    # Enable comments in posts.
-      toc: true         # Display TOC column in posts.
+      toc: true         # Display TOC(Table Of Contents) column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
       permalink: /posts/:title/
@@ -193,15 +193,14 @@ defaults:
 jekyll_compose:
   default_front_matter: 
     posts:
-      description: {title}  # Change It ------
+      description: New Post Title 
       image:
         path: /assets/img/blog-featured-image.jpg
         width: 1000   # in pixels
         height: 400   # in pixels
-        alt: {title}        # Change It ------
+        alt: New Post Title     
       category: [Blog]
       tags: [blog, coding, computer-science]
-      img_path: /assets/img/  # the image source write the file name directly ![The flower](flower.png)
       published: true
       sitemap: true
       pin: false
