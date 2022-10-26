@@ -31,3 +31,4 @@ More instructions:
 7. [CREATE JEKYLL POSTS FROM THE COMMAND LINE](https://gist.github.com/ichadhr/0b4e35174c7e90c0b31b)
 8. https://github.com/keithmifsud/jekyll-target-blank
 9. [Comma Separator for Tags](https://delim.co/#)
+10. For better performance use [jekyll-responsive-image](https://github.com/wildlyinaccurate/jekyll-responsive-image)
