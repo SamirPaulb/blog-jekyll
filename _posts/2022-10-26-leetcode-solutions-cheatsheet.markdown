@@ -19,11 +19,11 @@ pin: false
 
 ## Quick Access Links 
 ### LeetCode 
-- [LeetCode - CheatSheet](#leetcode---cheatsheet)
-	- [Getting Started](#getting-started)
-		- [Prerequisites](#prerequisites)
-	- [Built With](#built-with)
-	- [Authors](#authors)
+- LeetCode - CheatSheet
+	- Getting Started
+		- Prerequisites
+	- Built With
+	- Authors
 	- [Acknowledgments](#acknowledgments)
 	- [Quick Access Links](#quick-access-links)
 		- [LeetCode](#leetcode)
@@ -2001,8 +2001,8 @@ Considering a slightly different problem:
 	Given a set of keys S= [S1, S2 ... Sn], find the longest common prefix among a string q and S.
 	This LCP query will be called frequently
 ```
-We coule optimize LCP queries by storing the set of keys S in a Trie. See this for [Trie 
-implementation](#trie). In a Trie, each node descending from the root represents a common prefix of some keys. But we need to 
+We coule optimize LCP queries by storing the set of keys S in a Trie. See this for Trie 
+implementation. In a Trie, each node descending from the root represents a common prefix of some keys. But we need to 
 find the longest common prefix of a string q and all key strings. This means that we have to find the
 deepest path from the root, which satisfies the following conditions 
 
