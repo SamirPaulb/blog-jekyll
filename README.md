@@ -32,3 +32,5 @@ More instructions:
 8. https://github.com/keithmifsud/jekyll-target-blank
 9. [Comma Separator for Tags](https://delim.co/#)
 10. For better performance use [jekyll-responsive-image](https://github.com/wildlyinaccurate/jekyll-responsive-image)
+11. https://github.com/nhoizey/jekyll-cloudinary
+12. https://github.com/lavas-project/jekyll-pwa
