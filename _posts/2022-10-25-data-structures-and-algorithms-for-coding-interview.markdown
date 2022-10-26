@@ -15,8 +15,6 @@ pin: false
 ---
 
 
-<a href="#"><img width="1188" alt="DSA banner" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/dsa-in-python.jpg"></a>
-
 
 
 > In this repository, I have stored solutions to various problems and concepts of **Data Structures and Algorithms** in Python3 in a structured manner.✨
