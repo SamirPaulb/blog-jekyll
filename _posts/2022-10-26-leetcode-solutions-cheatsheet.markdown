@@ -24,7 +24,7 @@ pin: false
 		- Prerequisites
 	- Built With
 	- Authors
-	- [Acknowledgments](#acknowledgments)
+	- Acknowledgments
 	- [Quick Access Links](#quick-access-links)
 		- [LeetCode](#leetcode)
 - [1-Two Sum](#1-two-sum)
