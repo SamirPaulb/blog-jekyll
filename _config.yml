@@ -104,6 +104,9 @@ avatar: '/assets/img/avatar.webp'
 # boolean type, the global switch for ToC in posts.
 toc: true
 future: true
+regenerate: true
+# Incremental Regeneration
+incremental: true
 
 comments:
   active:         'giscus' # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
@@ -151,8 +154,6 @@ pwa:
     - route: /img\/embedded\/within\/my\/post
       strategy: cacheFirst
 
-# Incremental Regeneration
-incremental: true
 
 paginate: 10
 
@@ -264,3 +265,4 @@ plugins:
   - jekyll-include-cache
   - jekyll-target-blank
   - jekyll-pwa-plugin
+  - amp-jekyll
