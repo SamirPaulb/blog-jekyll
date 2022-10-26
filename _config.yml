@@ -28,7 +28,7 @@ description: >-                        # used by seo meta and the atom feed
   Technical blog made by developer for developers. Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Prep.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: https://samirpaul1.github.io
+url: https://samirpaul.in
 
 author: Samir Paul
 
@@ -96,7 +96,7 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://samirpaul1.github.io/blog'
+img_cdn: 'https://samirpaul.in/blog'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: '/assets/img/avatar.webp'
