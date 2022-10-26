@@ -16,46 +16,63 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Samir Paul                          # the main title
-
+tagline: Technical Blog
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Technical blog made by developer for developers. Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Prep.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: https://samirpaul1.github.io
 
+author: Samir Paul
+
 github:
-  username: SamirPaul1             # change to your github username
+  username: SamirPaul1             
 
 twitter:
-  username: SamirPaulb            # change to your twitter username
+  username: SamirPaulb            
+  card: summary
+
+facebook:
+  app_id: 6800281970014175
+  publisher: 
+  admins: 
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Samir Paul
-  email: example@example.com             # change to your email address
-  links:
+  email:                   # change to your email address
+  links: https://samirpaul1.github.io
     # The first element serves as the copyright owner's link
     - https://twitter.com/SamirPaulb      # change to your twitter homepage
     - https://github.com/SamirPaul1       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/SamirPaul
+    - https://www.facebook.com/SamirPaulb
+    - https://www.instagram.com/SamirPaulb
 
-google_site_verification:               # fill in to your verification string
+google_site_verification: vJAOBxbJTCK2vXG-hLFeGsoC9hXgFlCpuJJ8AcJLROQ
+
+webmaster_verifications:
+  google: vJAOBxbJTCK2vXG-hLFeGsoC9hXgFlCpuJJ8AcJLROQ
+  bing: 1A92FC2EC113F8616A21D76DA684A133
+  yandex: fe6a06c57be84984
+  pinterest: 24bac6e1fbf1750de40d59bb788d9dd9
+  facebook: 3pkgruuk3kzlsn3jdfehgbd4sem1qb
+  alexa: 
+  baidu: 
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-google_analytics:
-  id:                 # fill in your Google Analytics ID
+google_analytics: 
+  id: 323487609
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -79,10 +96,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 'https://samirpaul1.github.io/blog/assets/img'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar: '/assets/img/avatar.webp'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
