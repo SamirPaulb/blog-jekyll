@@ -20,9 +20,6 @@ pin: false
 
 > A curated list of lists of technical interview questions.
 
-[What makes for an awesome list?](awesome.md)
-
-Please read the [contribution guidelines](contributing.md) or [creating a list guide](create-list.md) if you want to contribute.
 
 ### Table of Contents
 
@@ -81,7 +78,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
   - [Oracle](#oracle)
   - [Postgres](#postgres)
   - [SQL](#sql)
-  - [SQL Lite](#sql-lite)
+  - SQL Lite
 - [Caching technologies](#caching-technologies)
   - [Memcached](#memcached)
   - [Redis](#redis)
