@@ -2,7 +2,7 @@
 layout: post
 title: "Curated List of Project Based Tutorials"
 description: "Curated List of Project Based Tutorials"
-image:
+image: 
   path: '/assets/img/blog-featured-image.jpg'
   width: 1000
   height: 400
