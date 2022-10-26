@@ -3,7 +3,7 @@ layout: post
 title: System Design Course
 description: System Design Course
 image: 
-  path: /assets/img/Getting-Started-with-System-Design-samirpaulb-assets.png
+  path: /assets/img/Getting-Started-with-System-Design-samirpaulb-assets.webp
   width: 1000
   height: 400
   alt: System Design Course

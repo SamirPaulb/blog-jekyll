@@ -18,7 +18,7 @@ class Jekyll < Thor
       post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
       post.puts "description: \"#{title.gsub(/&/,'&amp;')}\""
       post.puts "image:"
-      post.puts "  path: /assets/img/blog-featured-image.jpg"
+      post.puts "  path: /assets/img/blog-featured-image.webp"
       post.puts "  width: 1000"
       post.puts "  height: 400"
       post.puts "  alt: \"#{title.gsub(/&/,'&amp;')}\""

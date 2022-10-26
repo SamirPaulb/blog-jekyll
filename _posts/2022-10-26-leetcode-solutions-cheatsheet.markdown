@@ -3,7 +3,7 @@ layout: post
 title: Leetcode Solutions Cheatsheet
 description: Leetcode Solutions Cheatsheet
 image:
-  path: /assets/img/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg
+  path: /assets/img/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp
   width: 1000
   height: 400
   alt: Leetcode Solutions Cheatsheet

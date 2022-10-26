@@ -211,7 +211,7 @@ jekyll_compose:
     posts:
       description: New Post Title 
       image:
-        path: /assets/img/blog-featured-image.jpg
+        path: /assets/img/blog-featured-image.webp
         width: 1000   # in pixels
         height: 400   # in pixels
         alt: New Post Title     
