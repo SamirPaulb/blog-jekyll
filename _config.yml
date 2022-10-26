@@ -140,7 +140,7 @@ pwa:
   enabled: true   # the option for PWA feature
   sw_src_filepath: service-worker.js # Optional
   sw_dest_filename: service-worker.js # Optional
-  dest_js_directory: assets/js # Required
+  dest_js_directory: /assets/js # Required
   precache_recent_posts_num: 5 # Optional
   precache_glob_directory: / # Optional
   precache_glob_patterns: # Optional
@@ -148,9 +148,10 @@ pwa:
     - "/**/*.{js,json,css}"
     - "/**/*.{ico,jpg,jpeg,png,svg}"
     - "/**/*.html"
+    - index.html
     - "/assets/img/*.{png,jpg}"
   precache_glob_ignores: # Optional
-    - "sw-register.js"
+    - sw-register.js
     - "fonts/**/*"
   runtime_cache:
     - route: /img\/embedded\/within\/my\/post
