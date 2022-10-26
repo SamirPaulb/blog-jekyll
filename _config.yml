@@ -190,19 +190,21 @@ defaults:
       swcache: true
 
 # ---- Jekyll-Compose ---------
-# jekyll_compose:
-#   default_front_matter: 
-#     posts:
-#       description: New Blog Post  # Change It ------
-#       image:
-#         path: /assets/img/blog-featured-image.jpg
-#         width: 1000   # in pixels
-#         height: 400   # in pixels
-#         alt: New Blog Post        # Change It ------
-#       category: [Blog]
-#       tags: [blog, coding, computer-science]
-#       published: true
-#       sitemap: true
+jekyll_compose:
+  default_front_matter: 
+    posts:
+      description: {title}  # Change It ------
+      image:
+        path: /assets/img/blog-featured-image.jpg
+        width: 1000   # in pixels
+        height: 400   # in pixels
+        alt: {title}        # Change It ------
+      category: [Blog]
+      tags: [blog, coding, computer-science]
+      img_path: /assets/img/  # the image source write the file name directly ![The flower](flower.png)
+      published: true
+      sitemap: true
+      pin: false
 
 
 sass:

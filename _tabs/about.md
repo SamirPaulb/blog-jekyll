@@ -7,12 +7,12 @@ order: 4
 
 
 <p align="center">
-  <a href="#"> <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/welcome-samirpaul-blog-about-page.svg"/> </a>
+  <a href="#"> <img src="/assets/img/welcome.svg"/> </a>
 </p>
 
 
 <p align="center">
-  <a href="#"> <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/samir-samirpaul-blog-about-page.svg"/> <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/paul-samirpaul-blog-about-page.svg"/> </a>
+  <a href="#"> <img src="/assets/img/samir.svg"/> <img src="/assets/img/paul.svg"/> </a>
 </p>
 
 
@@ -37,63 +37,63 @@ order: 4
 
 <p align="center">
   
-[<code  >
+<code  >
 <img alt="Python" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png">
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="Java" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/java.png">
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/html.png">
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/css.png">
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/javascript.png" />
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="C" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/c.png" />
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="C++" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/cpp.png" />
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/git.png">
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="Django" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/django.png">
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/react.png">
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="Powershell" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/powershell.png">
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="Sublime" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/sublime.png">
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="VS-Code" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/vscode.png" />
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="Intellij" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/intelejidea.png" />
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="Pycharm" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/pycharm.png" />
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="Windows" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/windows.png">
-</code>](#)
-[<code >
+</code>
+<code >
 <img alt="MacOS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/macos.png">
-</code>](#)
-[<code>
+</code>
+<code>
 <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/linux.png">
-</code>](#)
+</code>
 
 </p>  
 
