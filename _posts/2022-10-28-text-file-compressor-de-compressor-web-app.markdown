@@ -35,21 +35,21 @@ pin: false
 
 ## Video
 
-<iframe width="560" height="315" src="https://user-images.githubusercontent.com/77569653/172716965-50560f4a-2acf-4013-ae87-8b474b2a09e3.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://user-images.githubusercontent.com/77569653/172716965-50560f4a-2acf-4013-ae87-8b474b2a09e3.mp4" frameborder="0" allowfullscreen></iframe>
 
 
 - [x] Landing Page:
 
-<a> ![landing-page](/assets/img/text-file-compressor-de-compressor-web-app-landing-page.png) </a>
+![landing-page](/assets/img/text-file-compressor-de-compressor-web-app-landing-page.png) 
 
 - [x] Upload File
 
-<a> ![step1](/assets/img/text-file-compressor-de-compressor-web-app-step1.png) </a>
+![step1](/assets/img/text-file-compressor-de-compressor-web-app-step1.png) 
 
 
 - [x] Select Action (Compress / De-compress)
 
-<a> ![step2](/assets/img/text-file-compressor-de-compressor-web-app-step2.png) </a>
+![step2](/assets/img/text-file-compressor-de-compressor-web-app-step2.png) 
 
 
 - [x] Wait for File Download
@@ -57,20 +57,20 @@ pin: false
 
     * Compression - Compression Ratio is also displayed 
 
-    <a> ![compression](/assets/img/text-file-compressor-de-compressor-web-app-step3.png) </a>
+    ![compression](/assets/img/text-file-compressor-de-compressor-web-app-step3.png)
     
     * De-compression
 
-    <a> ![decompression](/assets/img/text-file-compressor-de-compressor-web-app-decompression.png) </a>
+    ![decompression](/assets/img/text-file-compressor-de-compressor-web-app-decompression.png)
 
 * Additional Instructions and Warnings are provided if the above steps are not followed correctly
 
-<a> ![noFile](/assets/img/text-file-compressor-de-compressor-web-app-nofile.png) </a>
+![noFile](/assets/img/text-file-compressor-de-compressor-web-app-nofile.png) 
 
-<a> ![smallFile](/assets/img/text-file-compressor-de-compressor-web-app-verysmallfile.png)  </a>
+![smallFile](/assets/img/text-file-compressor-de-compressor-web-app-verysmallfile.png)
 
 
 
 * About the tecnique of Lossless Data Compression with Huffman coding.
 
-<a> ![info1](/assets/img/text-file-compressor-de-compressor-web-app-info.jpeg) </a>
+![info1](/assets/img/text-file-compressor-de-compressor-web-app-info.jpeg) 
