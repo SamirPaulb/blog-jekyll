@@ -269,5 +269,6 @@ plugins:
   - jekyll-target-blank
   - jekyll-pwa-plugin
   - jekyll-pwa-workbox
+  - jekyll-gzip
 
   # - amp-jekyll
