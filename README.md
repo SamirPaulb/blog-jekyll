@@ -1,5 +1,8 @@
 ## SamirPaul1/blog
 
+![workflow](https://github.com/SamirPaul1/blog/actions/workflows/pages-deploy.yml/badge.svg)
+
+
 Live Demo: \
 👉 **https://samirpaul1.github.io/blog** 
 
