@@ -20,5 +20,5 @@ platforms:
     link: "https://t.me/share/url?url=URL&text=TITLE"
   -
     type: WhatsApp
-    icon: "fab fa-whatsapp"
+    icon: "fab fa-whatsapp-square"
     link: "https://api.whatsapp.com/send?text=URL"
