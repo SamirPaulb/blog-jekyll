@@ -1,4 +1,4 @@
-**SamirPaul1/blog** [![workflow](https://github.com/SamirPaul1/blog/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/SamirPaul1/blog/actions/workflows/pages-deploy.yaml)
+**SamirPaul1/blog** [![workflow](https://github.com/SamirPaul1/blog/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/SamirPaul1/blog/actions/workflows/pages-deploy.yml)
 
 
 Live Demo: \
