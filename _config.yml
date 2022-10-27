@@ -157,6 +157,10 @@ pwa:
     - route: /img\/embedded\/within\/my\/post
       strategy: cacheFirst
 
+# jekyll-gzip
+gzip:
+  replace_files: true
+
 
 paginate: 10
 
