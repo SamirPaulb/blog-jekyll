@@ -106,7 +106,7 @@ toc: true
 future: true
 regenerate: true
 # Incremental Regeneration
-# incremental: true
+incremental: true
 
 comments:
   active:         'giscus' # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
