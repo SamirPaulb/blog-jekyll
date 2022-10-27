@@ -13,7 +13,7 @@
 -
   type: rss
   icon: 'fas fa-rss'
-  noblank: true
+  noblank: false
 
 # Uncomment and complete the url below to enable more contact options
 # -
