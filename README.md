@@ -36,3 +36,12 @@ More instructions:
 11. https://github.com/lavas-project/jekyll-pwa
 12. https://planetjekyll.github.io/plugins/top
 13. https://github.com/planetjekyll/awesome-jekyll-plugins
+
+
+
+---
+#### PageSpeed Insights
+
+<p align="center">
+  <a href="#"> <img src="/assets/img/report-pagespeed-web-dev.jpeg"/> </a>
+</p>
