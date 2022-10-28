@@ -39,7 +39,10 @@ More instructions:
 
 
 
----
+<p align="center">
+  <a href="#"> <img src="/assets/img/long-banner-breck-img-readme-unnamed.png" width="100%"/> </a>
+</p>
+
 #### PageSpeed Insights
 
 <p align="center">
