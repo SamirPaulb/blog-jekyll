@@ -97,25 +97,13 @@ order: 4
 </p>  
 
   
-#### Projects:
 
-[![DSAlgo](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=DSAlgo)](https://github.com/SamirPaul1/DSAlgo)
 
-[![LeetCode](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=LeetCode)](https://github.com/SamirPaul1/LeetCode)
+#### Top Repositories
 
-[![music](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=music)](https://github.com/SamirPaul1/music)
-
-[![MakeNotes](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=MakeNotes)](https://github.com/SamirPaul1/MakeNotes)
-
-[![txt-compressor](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=txt-compressor)](https://github.com/SamirPaul1/txt-compressor)
-
-[![Portfolio-Blog](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=Portfolio-Blog)](https://github.com/SamirPaul1/Portfolio-Blog)
-
-[![SamirPaul1.github.io](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=SamirPaul1.github.io)](https://github.com/SamirPaul1/SamirPaul1.github.io)
-
-[![CodeforcesVisualizer](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=CodeforcesVisualizer)](https://github.com/SamirPaul1/CodeforcesVisualizer)
-
-[![Weather](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=Weather)](https://github.com/SamirPaul1/Weather)
-
-[![link](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=link)](https://github.com/SamirPaul1/link)
-
+<a href="https://github.com/SamirPaul1/DSAlgo">
+  <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=DSAlgo&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/SamirPaul1/LeetCode">
+  <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=LeetCode&theme=transparent&hide_border=true" />
+</a>
