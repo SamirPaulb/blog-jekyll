@@ -271,5 +271,6 @@ plugins:
   - jekyll-pwa-workbox
   - jekyll-gzip
   - jekyll-loading-lazy
+  - jekyll-compress-images
 
   # - amp-jekyll
