@@ -97,6 +97,26 @@ order: 4
 </p>  
 
   
-<p align=center>                           
-  <a href="https://github.com/SamirPaul1"><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors"></a>     
-</p>
+#### Projects:
+
+[![DSAlgo](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=DSAlgo)](https://github.com/SamirPaul1/DSAlgo)
+
+[![LeetCode](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=LeetCode)](https://github.com/SamirPaul1/LeetCode)
+
+[![music](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=music)](https://github.com/SamirPaul1/music)
+
+[![MakeNotes](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=MakeNotes)](https://github.com/SamirPaul1/MakeNotes)
+
+[![txt-compressor](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=txt-compressor)](https://github.com/SamirPaul1/txt-compressor)
+
+[![Portfolio-Blog](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=Portfolio-Blog)](https://github.com/SamirPaul1/Portfolio-Blog)
+
+[![SamirPaul1.github.io](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=SamirPaul1.github.io)](https://github.com/SamirPaul1/SamirPaul1.github.io)
+
+[![CodeforcesVisualizer](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=CodeforcesVisualizer)](https://github.com/SamirPaul1/CodeforcesVisualizer)
+
+[![Weather](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=Weather)](https://github.com/SamirPaul1/Weather)
+
+[![link](https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=link)](https://github.com/SamirPaul1/link)
+
+
