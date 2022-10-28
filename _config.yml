@@ -72,7 +72,7 @@ webmaster_verifications:
 # The end of `jekyll-seo-tag` settings
 
 google_analytics: 
-  id: 323487609
+  id: 
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -131,7 +131,7 @@ comments:
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: true      # boolean, keep empty means false
+    enabled:      # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
     env:          # [development|production]
