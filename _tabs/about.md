@@ -25,8 +25,7 @@ order: 4
   ✉️ &nbsp;Get in touch with me via email at ```samirpaulb [at] gmail [dot] com``` or connect on [LinkedIn](https://www.linkedin.com/in/SamirPaul). 
 
 
-<b>*Connect With Me*:</b> &nbsp;
-[**LinkedIn**](https://www.linkedin.com/in/SamirPaul) &nbsp; [**Twitter**](https://twitter.com/SamirPaulb)
+<b>*Connect With Me*:</b> &nbsp; [<img alt="LinkedIn" width="73px" src="/assets/linkedin.svg">](https://www.linkedin.com/in/SamirPaul) &nbsp; [<img alt="Twitter" width="65px" src="/assets/twitter.svg">](https://twitter.com/intent/follow?screen_name=SamirPaulb)
 
 
   
