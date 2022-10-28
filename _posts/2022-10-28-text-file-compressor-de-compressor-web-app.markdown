@@ -38,7 +38,7 @@ pin: false
 
 ## Video
 
-<iframe src="https://user-images.githubusercontent.com/77569653/172716965-50560f4a-2acf-4013-ae87-8b474b2a09e3.mp4" width="640" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://user-images.githubusercontent.com/77569653/172716965-50560f4a-2acf-4013-ae87-8b474b2a09e3.mp4" width="100%" frameborder="0" allowfullscreen></iframe>
 
 
 - [x] Landing Page:

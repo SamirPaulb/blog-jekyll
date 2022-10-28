@@ -27,7 +27,7 @@ In the backend, using the ```PDFNetPython``` library that file gets reduced and 
 
 ## Video:
 
-<iframe src="https://user-images.githubusercontent.com/77569653/172896703-9e4998c1-40da-46ae-810e-780e47a391f9.mp4" width="640" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://user-images.githubusercontent.com/77569653/172896703-9e4998c1-40da-46ae-810e-780e47a391f9.mp4" width="100%" frameborder="0" allowfullscreen></iframe>
 
 
 
