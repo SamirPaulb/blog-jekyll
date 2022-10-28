@@ -157,6 +157,10 @@ pwa:
     - route: /img\/embedded\/within\/my\/post
       strategy: cacheFirst
 
+# jekyll-compress-images plugin
+compress_images:
+  images_path: "/assets/img/**/*.{gif,png,jpg,jpeg,svg}"
+
 
 paginate: 10
 
