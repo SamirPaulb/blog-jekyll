@@ -26,7 +26,7 @@ order: 4
 
 
 <b>*Connect With Me*:</b> &nbsp;
-[**LinkedIn**](https://www.linkedin.com/in/SamirPaul) &nbsp; [**Twitter**](https://twitter.com/SamirPaulb)
+[**LinkedIn**](https://www.linkedin.com/in/SamirPaul)  &nbsp; [**GitHub**](https://github.com/SamirPaul1)  &nbsp; [**Twitter**](https://twitter.com/intent/follow?screen_name=SamirPaulb) 
 
 
   
@@ -97,13 +97,3 @@ order: 4
 </p>  
 
   
-
-
-#### Top Repositories
-
-<a href="https://github.com/SamirPaul1/DSAlgo">
-  <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=DSAlgo&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/SamirPaul1/LeetCode">
-  <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=LeetCode&theme=transparent&hide_border=true" />
-</a>

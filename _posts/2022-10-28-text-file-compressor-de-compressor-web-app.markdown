@@ -23,11 +23,14 @@ pin: false
 
 ## About this application:
 
-* This website performs Lossless data compression and decompression of text(.txt) files using Huffman Algorithm.
-* In this algorithm, a variable-length code is assigned to input different characters. The code length is related to how frequently characters are used. Most frequent characters have the smallest codes and longer codes for least frequent characters.
+* An online text(.txt) file compressor, decompressor which uses Huffman Algorithm to encode/compress files by 35% and decode them back to the original size. 
+* This tool assigns a variable-length code to the characters of the uploaded file based on the frequency of occurrence. Then converts characters to that special code which takes less size than the original ASCII codes. Huffman code forms a binary tree assigning the most frequent characters with the smallest codes and longer codes for the least frequent characters. 
 * A Huffman code is a tree, built bottom up, starting with the list of different characters appearing in a text and their frequency. 
-* Compression ratio usually improves as the file size increases.
-* The website is made responsive (with HTML and CSS ) and interactive (with JavaScript ) .
+* With this lossless data compression method, this tool can compress the file size by 35 to 40%. 
+* As file size gets reduced and original characters get changed to special characters so this encoding also improves security by encrypting the file during file sharing. 
+* With the decoding feature, the user can decode the encoded file and get back the original file of the previous size. 
+* I have used JavaScript to implement the algorithms so that browser can compile the code and HTML, CSS to make the website responsive. 
+* Additional instructions and warnings are provided if steps are not followed correctly. 
 * An [Info page](https://samirpaul1.github.io/txt-compressor/info.html) is added to give more information about tecnique of **Lossless Data Compression** with Huffman coding.
 
 
@@ -35,7 +38,7 @@ pin: false
 
 ## Video
 
-<iframe src="https://user-images.githubusercontent.com/77569653/172716965-50560f4a-2acf-4013-ae87-8b474b2a09e3.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://user-images.githubusercontent.com/77569653/172716965-50560f4a-2acf-4013-ae87-8b474b2a09e3.mp4" width="640" height="480" frameborder="0" allowfullscreen></iframe>
 
 
 - [x] Landing Page:
