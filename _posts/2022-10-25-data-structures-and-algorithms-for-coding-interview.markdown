@@ -17,9 +17,9 @@ pin: false
 
 
 
-> In this repository, I have stored solutions to various problems and concepts of **Data Structures and Algorithms** in Python3 in a structured manner.✨
+> In this repository, I have stored solutions to various problems and concepts of **Data Structures and Algorithms** in Python3 in a structured manner.
 
-:heavy_check_mark:  <ins>_**Topics Covered**_</ins>:
+### ***Topics Covered***:
 - [x]  [**Dynamic Programming**](https://github.com/SamirPaul1/DSAlgo/tree/main/02_Dynamic-Programming)
 - [x]  [**Sorting Algorithms**](https://github.com/SamirPaul1/DSAlgo/tree/main/03_Sorting-Algorithms)
 - [x]  [**LinkedList**](https://github.com/SamirPaul1/DSAlgo/tree/main/04_LinkedList)
