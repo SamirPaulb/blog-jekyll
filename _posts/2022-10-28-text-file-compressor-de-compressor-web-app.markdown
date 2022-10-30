@@ -38,7 +38,7 @@ pin: false
 
 ## Video 
 
-<iframe src="https://user-images.githubusercontent.com/77569653/172716965-50560f4a-2acf-4013-ae87-8b474b2a09e3.mp4" width="100%" height = "380" frameborder="0" allowfullscreen></iframe>
+<iframe src="/assets/img/text-file-compressor-de-compressor-web-app-video-demo.mp4" alt="Text File Compressor De-compressor Video Demo" width="100%" height = "60%" frameborder="0" allowfullscreen></iframe>
 
 
 - [x] Landing Page:
@@ -76,4 +76,4 @@ pin: false
 
 * About the tecnique of Lossless Data Compression with Huffman coding.
 
-![info1](/assets/img/text-file-compressor-de-compressor-web-app-info.jpeg) 
+![info page](/assets/img/text-file-compressor-de-compressor-web-app-info.jpeg) 

@@ -25,15 +25,15 @@ In the backend, using the ```PDFNetPython``` library that file gets reduced and 
 
 - [Live Demo 🚀 ](https://filecompressor.samirpaul1.repl.co)
 
-## Video:
+## Video: 
 
-<iframe src="https://user-images.githubusercontent.com/77569653/172896703-9e4998c1-40da-46ae-810e-780e47a391f9.mp4" width="100%" height = "380" frameborder="0" allowfullscreen></iframe>
+<iframe src="/assets/img/online-pdf-compression-tool-video-demo.mp4" alt="Online PDF Compression Tool Video Demo" width="100%" height = "60%" frameborder="0" allowfullscreen></iframe>
 
 
 
 
 - Landing Page:
-![screenshot](/assets/img/filecompressor-samirpaul1-repl-co-landing-page.webp)
+![Landing Page](/assets/img/filecompressor-samirpaul1-repl-co-landing-page.webp)
 
 
 ### Flask File Uploading:
