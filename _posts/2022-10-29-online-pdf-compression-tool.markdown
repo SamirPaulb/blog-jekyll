@@ -27,7 +27,14 @@ In the backend, using the ```PDFNetPython``` library that file gets reduced and 
 
 ## Video: 
 
-<iframe src="/assets/img/online-pdf-compression-tool-video-demo.mp4" alt="Online PDF Compression Tool Video Demo" width="100%" height = "60%" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+  <div class="video">
+    <video width="100%" muted loop>
+      <source src="/assets/img/online-pdf-compression-tool-video-demo.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
 
 
 
