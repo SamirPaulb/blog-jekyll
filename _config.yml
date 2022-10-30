@@ -215,8 +215,8 @@ jekyll_compose:
       description: New Post Title 
       image:
         path: /assets/img/blog-featured-image.webp
-        width: 1000   # in pixels
-        height: 400   # in pixels
+        width: 661    # in pixels
+        height: 132   # in pixels
         alt: New Post Title     
       category: [Blog]
       tags: [blog, coding, computer-science]

@@ -4,8 +4,8 @@ title: Leetcode Solutions Cheatsheet
 description: Leetcode Solutions Cheatsheet
 image:
   path: /assets/img/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp
-  width: 1000
-  height: 400
+  width: 661
+  height: 132
   alt: Leetcode Solutions Cheatsheet
 categories: [LeetCode]
 tags: [blog, coding, computer-science, coding,computer-science,leetcode,leetcode-solutions,leetcode-solutions-cheetsheet,leetcode-cheetsheet,important-leetcode-solutions-markdown,markdown,important-leetcode-questions,java,python,cpp,leetcode]

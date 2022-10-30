@@ -4,8 +4,8 @@ title: Data Structures and Algorithms for Coding Interview
 description: Data Structures and Algorithms for Coding Interview
 image: 
   path: /assets/img/dsa-in-python.jpg 
-  width: 1000
-  height: 400
+  width: 661
+  height: 132
   alt: Data Structures and Algorithms for Coding Interview
 categories: [Data Structures and Algorithms]
 tags: [blog, coding, computer-science, data-structures-and-algorithms-for-coding-interview,data-structures,algorithms,interview,coding-interview,dsalgo,leetcode,gfg,geeksforgeeks,dynamic-programming,sorting-algorithms,linkedList,object-oriented-programming,binary-trees,graph-algorithms,heap,matrix,trie,binary-search,backtracking,stack,queue,greedy,string,bit-manipulation,array,hashmap,dfs,bfs,two-pointers,math,recursion,codechef,codeforces,hackerrank,dsa,coding]

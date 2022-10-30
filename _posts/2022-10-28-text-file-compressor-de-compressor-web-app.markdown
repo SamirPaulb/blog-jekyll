@@ -4,8 +4,8 @@ title: Text File Compressor De-compressor Web App
 description: Text File Compressor De-compressor Web App
 image:
   path: /assets/img/text-file-compressor-de-compressor-web-app-preview.webp
-  width: 1000
-  height: 400
+  width: 661
+  height: 132
   alt: Text File Compressor De-compressor Web App
 categories: [Projects]
 tags: [blog, coding, computer-science, javascript, project, css, html, encoding, encoder, huffman, huffman-coding, huffman-compression-algorithm, txt, lossless-compression-algorithm, file-compression, huffman-encoder, huffman-decoder, huffman-encoding, txt-encode, txt-decode, lossless-compression, github, projects, web-development, lossless-data-compression, online-file-compressor, txt-compressor, algorithm]

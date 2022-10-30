@@ -4,8 +4,8 @@ title: Curated List of Project Based Tutorials
 description: Curated List of Project Based Tutorials
 image: 
   path: /assets/img/curated-list-of-project-based-tutorials-images.webp 
-  width: 1000
-  height: 400
+  width: 792
+  height: 198
   alt: Curated List of Project Based Tutorials
 categories: [Projects]
 tags: [blog, coding, computer-science, coding,computer-science,projects,tutorials,list-of-project-based-tutorials]
