@@ -3,7 +3,7 @@ layout: post
 title: Curated List of Project Based Tutorials
 description: Curated List of Project Based Tutorials
 image: 
-  path: /assets/img/curated-list-of-project-based-tutorials-images.png 
+  path: /assets/img/curated-list-of-project-based-tutorials-images.webp 
   width: 1000
   height: 400
   alt: Curated List of Project Based Tutorials

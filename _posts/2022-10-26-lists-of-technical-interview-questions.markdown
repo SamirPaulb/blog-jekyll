@@ -3,7 +3,7 @@ layout: post
 title: Lists of Technical Interview Questions
 description: Lists of Technical Interview Questions
 image:
-  path: /assets/img/list-of-interview-questions-blog-images.jpeg
+  path: /assets/img/list-of-interview-questions-blog-images.webp
   width: 1000
   height: 400
   alt: Lists of Technical Interview Questions

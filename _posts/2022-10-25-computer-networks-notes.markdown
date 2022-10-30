@@ -3,7 +3,7 @@ layout: post
 title: Computer Networks Notes
 description: Computer Networks Notes
 image: 
-  path: /assets/img/computer-networks-preview-blog-banner.jpg
+  path: /assets/img/computer-networks-preview-blog-banner.webp
   width: 1000
   height: 400
   alt: Computer Networks Notes
