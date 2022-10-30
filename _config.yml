@@ -158,13 +158,8 @@ pwa:
       strategy: cacheFirst
 
 # jekyll-compress-images plugin
-compress_images:
-  images_path: "/assets/img/**/*.{gif,png,jpg,jpeg,svg}"
-
-imageoptim:
-  pngout: false
-  svgo: false
-  verbose: false
+# compress_images:
+#   images_path: "/assets/img/**/*.{gif,png,jpg,jpeg,svg}"
 
 
 paginate: 10
@@ -256,7 +251,7 @@ exclude:
   - gulpfile.js
   - node_modules
   - package*.json
-  - _compress_images_cache.yml
+  
 
 
 jekyll-archives:
@@ -282,6 +277,6 @@ plugins:
   - jekyll-pwa-workbox
   - jekyll-gzip
   - jekyll-loading-lazy
-  - jekyll-compress-images
-
+  
+  # - jekyll-compress-images
   # - amp-jekyll

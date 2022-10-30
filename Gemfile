@@ -38,8 +38,8 @@ gem 'jekyll-pwa-plugin', '~> 2.2', '>= 2.2.3'
 gem 'jekyll-pwa-workbox'
 gem 'jekyll_picture_tag', '~> 2.0'
 gem 'jekyll-loading-lazy'
-gem 'jekyll-compress-images'
 
+# gem 'jekyll-compress-images'  # not need as 'Imgbot' installed in the repo
 # gem 'amp-jekyll', '~> 1.0', '>= 1.0.2'
 
 group :jekyll_plugins do

@@ -25,11 +25,9 @@ In the backend, using the ```PDFNetPython``` library that file gets reduced and 
 
 - [Live Demo 🚀 ](https://filecompressor.samirpaul1.repl.co)
 
-## Video: 
+## Video Demo: 
 
-<video autoplay="autoplay" loop="loop" width="100%" height="380">
-  <source src="/assets/img/online-pdf-compression-tool-video-demo.mp4" type="video/mp4">
-</video>
+<iframe src="https://user-images.githubusercontent.com/77569653/172896703-9e4998c1-40da-46ae-810e-780e47a391f9.mp4" width="100%" height = "60%" autoplay="autoplay" loop="loop" frameborder="0" allowfullscreen></iframe>
 
 
 
