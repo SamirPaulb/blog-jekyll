@@ -65,8 +65,7 @@ webmaster_verifications:
   yandex: fe6a06c57be84984
   pinterest: 24bac6e1fbf1750de40d59bb788d9dd9
   facebook: 3pkgruuk3kzlsn3jdfehgbd4sem1qb
-  alexa: 
-  baidu: 
+  
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -138,24 +137,7 @@ assets:
 
 pwa:
   enabled: true   # the option for PWA feature
-  sw_src_filepath: service-worker.js # Optional
-  sw_dest_filename: service-worker.js # Optional
-  dest_js_directory: /assets/js # Required
-  precache_recent_posts_num: 10 # Optional
-  precache_glob_directory: / # Optional
-  precache_glob_patterns: # Optional
-    - "{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}"
-    - "/**/*.{js,json,css}"
-    - "/**/*.{ico,jpg,jpeg,png,svg}"
-    - "/**/*.html"
-    - index.html
-    - "/assets/img/*.{png,jpg}"
-  precache_glob_ignores: # Optional
-    - sw-register.js
-    - "fonts/**/*"
-  runtime_cache:
-    - route: /img\/embedded\/within\/my\/post
-      strategy: cacheFirst
+
 
 gzip:
   extensions:
@@ -253,7 +235,7 @@ compress_html:
   profile: false
   blanklines: false
   ignore:
-    envs: [development]
+    envs: []
 
 exclude:
   - '*.gem'
@@ -287,8 +269,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-target-blank
-  - jekyll-pwa-plugin
-  - jekyll-pwa-workbox
   - jekyll-gzip
   - jekyll-loading-lazy
   
