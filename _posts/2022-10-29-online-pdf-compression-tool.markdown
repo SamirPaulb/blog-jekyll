@@ -27,14 +27,9 @@ In the backend, using the ```PDFNetPython``` library that file gets reduced and 
 
 ## Video: 
 
-<div class="container">
-  <div class="video">
-    <video width="100%" muted loop>
-      <source src="/assets/img/online-pdf-compression-tool-video-demo.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-</div>
+<video autoplay="autoplay" loop="loop" width="100%" height="380">
+  <source src="/assets/img/online-pdf-compression-tool-video-demo.mp4" type="video/mp4">
+</video>
 
 
 
