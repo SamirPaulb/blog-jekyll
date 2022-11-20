@@ -38,7 +38,9 @@ More instructions:
 13. https://github.com/planetjekyll/awesome-jekyll-plugins
 14. https://github.com/cotes2020/jekyll-theme-chirpy/issues/739#issuecomment-1316300007
 15. https://github.com/cotes2020/jekyll-theme-chirpy/issues/created_by/SamirPaul1
-16. https://github.com/nshidqi/nshidqi.github.io
+16. https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=is%3Aissue+author%3Asbkv1+is%3Aclosed
+17. https://github.com/nshidqi/nshidqi.github.io
+
 
 
 
