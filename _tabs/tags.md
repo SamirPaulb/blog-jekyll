@@ -1,6 +1,6 @@
 ---
 layout: tags
+title: All Tags
 icon: fas fa-tag
-order: 6
-exclude: true
+order: 4
 ---
