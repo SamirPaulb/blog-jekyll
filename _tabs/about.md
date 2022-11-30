@@ -25,6 +25,8 @@ WBCHSE & WBBSE ```2013 - 2020```
 <p style="font-family:Tinos"> • WBCHSE (Senior Secondary Class XII) 92.00% PCM & Computer Science.</p>
 <p style="font-family:Tinos"> • WBBSE (Secondary Class X) 96.14% General Studies.</p>
 
+---
+
 <b> </b>
 
 <p align="center">
@@ -50,6 +52,8 @@ Data Management and Analytics Intern ```July 2021 – Oct 2021```
 Public Policy Intern ```Jun 2021 - July 2021```
 <p style="font-family:Tinos"> • Created reports and blog posts for Think India and worked under the guidance of the Nyaypravah organization.</p>
 
+---
+
 <b> </b>
 
 <p align="center">
@@ -60,6 +64,8 @@ Public Policy Intern ```Jun 2021 - July 2021```
 
 <b>SamirPaul1</b> across coding platforms.
 <p style="font-family:Tinos" align="center"><strong> <a href="https://github.com/SamirPaul1" target = "_blank"><b>GitHub</b></a> • <a href="https://leetcode.com/samirpaul1" target = "_blank"><b>LeetCode</b></a> • <a href="https://auth.geeksforgeeks.org/user/samirpaul1/" target = "_blank"><b>GeeksforGeeks</b></a> • <a href="https://www.codechef.com/users/samirpaul1" target = "_blank"><b>CodeChef</b></a> • <a href="https://www.hackerrank.com/samirpaul1" target = "_blank"><b>HackerRank</b></a> </strong></p>
+
+---
 
 <b> </b>
 
@@ -126,6 +132,7 @@ Public Policy Intern ```Jun 2021 - July 2021```
 
 </p>  
 
+---
 
 <b> </b>
 
@@ -178,7 +185,7 @@ An online PDF file compression tool. Python Flask is used to upload a file to a 
 
 A simple webpage to group all profiles on social networks in one place. A clone of popular social media referencing site Linktree, under the MIT license. The website is made responsive (with HTML5 and CSS3). The GitHub repository is available: [Here.⇗](https://github.com/SamirPaul1/link)
 
-
+---
 
 <b> </b>
 <p align="center">
