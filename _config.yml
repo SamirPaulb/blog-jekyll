@@ -22,7 +22,7 @@ timezone: Asia/Kolkata
 # ↓ --------------------------
 
 title: Samir Paul                          # the main title
-tagline: Technical Blog
+tagline: Software Engineer
 
 description: >-                        # used by seo meta and the atom feed
   Technical blog made by developer for developers. Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Prep.
