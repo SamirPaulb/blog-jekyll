@@ -5,7 +5,7 @@ order: 1
 ---
 
 <p align="center">
-  <a href="#"> <img src="assets/welcome.svg"/> </a>
+  <a href="#"> <img src="/assets/img/welcome.svg"/> </a>
 </p>
 
 
