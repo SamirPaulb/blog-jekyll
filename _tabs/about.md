@@ -8,6 +8,7 @@ order: 1
   <a href="#"> <img src="/assets/img/welcome.svg"/> </a>
 </p>
 
+---
 
 <p align="center">
   <a href="#"> <img alt="Education" src="/assets/img/education.svg"/> </a>
@@ -26,8 +27,6 @@ WBCHSE & WBBSE ```2013 - 2020```
 <p style="font-family:Tinos"> • WBBSE (Secondary Class X) 96.14% General Studies.</p>
 
 ---
-
-<b> </b>
 
 <p align="center">
   <a href="#"> <img alt="Experience" src="/assets/img/experience.svg"/> </a>
@@ -54,8 +53,6 @@ Public Policy Intern ```Jun 2021 - July 2021```
 
 ---
 
-<b> </b>
-
 <p align="center">
   <a href="#"> <img alt="Coding Profiles" src="/assets/img/coding.svg"/> </a>
 </p>
@@ -66,8 +63,6 @@ Public Policy Intern ```Jun 2021 - July 2021```
 <p style="font-family:Tinos" align="center"><strong> <a href="https://github.com/SamirPaul1" target = "_blank"><b>GitHub</b></a> • <a href="https://leetcode.com/samirpaul1" target = "_blank"><b>LeetCode</b></a> • <a href="https://auth.geeksforgeeks.org/user/samirpaul1/" target = "_blank"><b>GeeksforGeeks</b></a> • <a href="https://www.codechef.com/users/samirpaul1" target = "_blank"><b>CodeChef</b></a> • <a href="https://www.hackerrank.com/samirpaul1" target = "_blank"><b>HackerRank</b></a> </strong></p>
 
 ---
-
-<b> </b>
 
 > <a href="#"><strong> Languages And Tools</strong></a>
 <p align="center">
@@ -134,8 +129,6 @@ Public Policy Intern ```Jun 2021 - July 2021```
 
 ---
 
-<b> </b>
-
 <p align="center">
   <a href="#"> <img alt="Projects" src="/assets/img/projects.svg"/> </a>
 </p>
@@ -187,7 +180,6 @@ A simple webpage to group all profiles on social networks in one place. A clone 
 
 ---
 
-<b> </b>
 <p align="center">
   <a href="#"> <img alt="Certificates" src="/assets/img/certificates.svg"/> </a>
 </p>
