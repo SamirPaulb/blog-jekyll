@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Certificates
-icon: fas fa-book
+icon: fas fa-award
 order: 3
 ---
 
