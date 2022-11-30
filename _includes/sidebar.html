@@ -21,7 +21,7 @@
         </a>
       </div>
   
-      <div class="site-title">
+      <div class="site-title mt-3">
         <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
       </div>
       <div class="site-subtitle font-italic">{{ site.tagline }}</div>
@@ -34,30 +34,30 @@
       <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
         <a href="{{ '/' | relative_url }}" class="nav-link">
           <i class="fa-fw fas fa-home ml-xl-3 mr-xl-3 unloaded"></i>
-          <span>{{ site.data.locales[site.lang].tabs.home | upcase }}</span>
+          <span>{{ site.data.locales[lang].tabs.home | upcase }}</span>
         </a>
       </li>
       <!-- the real tabs -->
       {% for tab in site.tabs %}
-      
-      {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
-      {% if tab_name != 'categories' and  tab_name != 'tags' %}
-
-      <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
-        <a href="{{ tab.url | relative_url }}" class="nav-link">
-          <i class="fa-fw {{ tab.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
-          {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
+        {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
+        {% if tab_name != 'categories' and  tab_name != 'tags' %}
   
-          <span>{{ site.data.locales[site.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
-        </a>
-      </li> <!-- .nav-item -->
+          <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
+            <a href="{{ tab.url | relative_url }}" class="nav-link">
+              <i class="fa-fw {{ tab.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
+              {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
+  
+              <span>{{ site.data.locales[lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
+            </a>
+          </li> <!-- .nav-item -->
+        {% endif %}
       {% endfor %}
   
     </ul> <!-- ul.nav.flex-column -->
   
     <div class="sidebar-bottom mt-auto d-flex flex-wrap justify-content-center align-items-center">
   
-      {% unless site.theme_mode %}
+      <!-- {% unless site.theme_mode %}
         <button class="mode-toggle btn" aria-label="Switch Mode">
           <i class="fas fa-adjust"></i>
         </button>
@@ -65,7 +65,7 @@
         {% if site.data.contact.size > 0 %}
           <span class="icon-border"></span>
         {% endif %}
-      {% endunless %}
+      {% endunless %} -->
   
       {% for entry in site.data.contact %}
         {% capture url %}
