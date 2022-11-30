@@ -1,39 +1,64 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: About
+icon: fas fa-user
+order: 1
 ---
 
-
 <p align="center">
-  <a href="#"> <img src="/assets/img/welcome.svg"/> </a>
+  <a href="#"> <img alt="Education" src="/assets/img/education.svg"/> </a>
 </p>
 
+> <a href="https://nitdgp.ac.in/" target = "_blank"><strong> NATIONAL INSTITUTE OF TECHNOLOGY DURGAPUR</strong></a>
+
+B.Tech (Electronics and Communication Engineering) ```Nov 2020 - July 2024```
+<p style="font-family:Tinos"> • 9/10 CGPA.</p>
+<b> </b>
+
+> <a href="#"><strong> SILIGURI BARADAKANTA VIDYAPITH</strong></a>
+
+WBCHSE & WBBSE ```2013 - 2020```
+<p style="font-family:Tinos"> • WBCHSE (Senior Secondary Class XII) 92.00% PCM & Computer Science.</p>
+<p style="font-family:Tinos"> • WBBSE (Secondary Class X) 96.14% General Studies.</p>
+
+<b> </b>
 
 <p align="center">
-  <a href="#"> <img src="/assets/img/samir.svg"/> <img src="/assets/img/paul.svg"/> </a>
+  <a href="#"> <img alt="Experience" src="/assets/img/experience.svg"/> </a>
 </p>
 
+> <a href="https://www.amazon.in/" target = "_blank"><strong> AMAZON</strong></a>
 
+Machine Learning Trainee ```Jun 2022 - July 2022```
+<p style="font-family:Tinos"> • Learned and implemented various concepts of Machine Learning(Supervised-Unsupervised Learning, Neural Networks).</p>
+<b> </b>
 
-<b>*About Me*:</b> 
+> <a href="http://www.niti.gov.in/" target = "_blank"><strong> NITI AAYOG</strong></a>
 
-  🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
-  💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, Git, HTML, CSS, C, Linux.\
-  🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
-  💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/samirpaul1), [CodeChef](https://www.codechef.com/users/samirpaul1), [HackerRank](https://www.hackerrank.com/samirpaul1) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/samirpaul1/practice).\
-  ✉️ &nbsp;Get in touch with me via email at ```samirpaulb [at] gmail [dot] com``` or connect on [LinkedIn](https://www.linkedin.com/in/SamirPaul). 
+Data Management and Analytics Intern ```July 2021 – Oct 2021```
+<p style="font-family:Tinos"> • Worked with NDAP in the data sourcing workstream. Created and analysed datasets for PSUs and autonomous bodies.</p>
+<p style="font-family:Tinos"> • Used Python NumPy and Pandas in Jupyter notebook to create and visualise PyCharts.</p>
+<p style="font-family:Tinos"> • Worked on SDG Index and analysed the upcoming use of AR-VR in the non-gaming sector in India.</p>
+<b> </b>
 
+> <a href="https://www.thinkindiaorg.in/" target = "_blank"><strong> THINK INDIA</strong></a>
 
-<b>*Connect With Me*:</b> &nbsp;
-[**LinkedIn**](https://www.linkedin.com/in/SamirPaul)  &nbsp; [**GitHub**](https://github.com/SamirPaul1)  &nbsp; [**Twitter**](https://twitter.com/intent/follow?screen_name=SamirPaulb) 
+Public Policy Intern ```Jun 2021 - July 2021```
+<p style="font-family:Tinos"> • Created reports and blog posts for Think India and worked under the guidance of the Nyaypravah organization.</p>
 
+<b> </b>
 
-  
-<b>*Languages And Tools*:</b>
-  
-<b> </b>  
+<p align="center">
+  <a href="#"> <img alt="Coding Profiles" src="/assets/img/coding.svg"/> </a>
+</p>
 
+> <a href="#"><strong> Coding Profiles</strong></a>
+
+<b>SamirPaul1</b> across coding platforms.
+<p style="font-family:Tinos" align="center"><strong> <a href="https://github.com/SamirPaul1" target = "_blank"><b>GitHub</b></a> • <a href="https://leetcode.com/samirpaul1" target = "_blank"><b>LeetCode</b></a> • <a href="https://auth.geeksforgeeks.org/user/samirpaul1/" target = "_blank"><b>GeeksforGeeks</b></a> • <a href="https://www.codechef.com/users/samirpaul1" target = "_blank"><b>CodeChef</b></a> • <a href="https://www.hackerrank.com/samirpaul1" target = "_blank"><b>HackerRank</b></a> </strong></p>
+
+<b> </b>
+
+> <a href="#"><strong> Languages And Tools</strong></a>
 <p align="center">
   
 <code  >
@@ -95,5 +120,3 @@ order: 4
 </code>
 
 </p>  
-
-  

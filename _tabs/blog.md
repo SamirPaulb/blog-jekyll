@@ -1,6 +1,7 @@
 ---
 layout: archives
-icon: fas fa-archive
+title: Blog
+icon: fas fa-blogger-b
 order: 3
 ---
 
