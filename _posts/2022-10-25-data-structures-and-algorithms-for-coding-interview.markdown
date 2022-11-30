@@ -59,8 +59,9 @@ In various folders of the above topics, you can find questions and concepts rela
 I am continuously trying to improve this repository by adding new questions and concepts related to the respective topic. Please feel free to contribute to this repository.💻
 
 <div align="center">
-<b>View this repository with improved user experience▶️[https://samirpaul.in/DSAlgo](https://samirpaul1.github.io/DSAlgo)</b>🚀
+<b>View this repository with improved user experience▶️<a href="https://samirpaul1.github.io/DSAlgo">https://samirpaul.in/DSAlgo</a></b>🚀
 </div>
+
 ![DSA Online VSCode](/assets/img/samirpaul.in-DSAlgo-demo.png "DSA Online VSCode")
 
 **Things you can contribute to:**
