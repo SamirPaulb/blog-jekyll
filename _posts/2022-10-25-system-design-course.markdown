@@ -20,7 +20,9 @@ pin: false
 
 > Learn how to design systems at scale and prepare for system design interviews.
 
-
+<p align="center">
+<a class="btn-lang" href="https://samirpaulb.github.io/assets/System_Design.pdf" target = "_blank">Download PDF</a>
+</p>
 
 # Table of contents
 
