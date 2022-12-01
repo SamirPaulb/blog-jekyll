@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 icon: fas fa-user
 order: 1
 ---
@@ -8,6 +8,8 @@ order: 1
   <a href="#"> <img  alt="Welcome" src="/assets/img/welcome.svg"/> </a>
 </p>
 <p style="font-family:Tinos"> I am an undergraduate student at the National Institute of Technology Durgapur. I enjoy problem-solving and coding. Always strive to bring 100% to the work I do. I am passionate about developing complex applications that solve real-world problems impacting millions of users. </p>
+
+<p align="center"><a class="btn-lang" href="https://samirpaul1.github.io/resume" target = "_blank">Download CV</a></p>
 
 ---
 
