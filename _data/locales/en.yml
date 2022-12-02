@@ -43,7 +43,7 @@ copyright:
 meta: <a href="https://samirpaul1.github.io/about">About</a> • <a href="https://samirpaul1.github.io/blog">Blog</a> • <a href="https://www.linkedin.com/in/SamirPaul">LinkedIn</a> • <a href="https://github.com/SamirPaul1">GitHub</a>
 
 not_found:
-  statment: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <i class="fa fa-envelope" aria-hidden="true"></i> <a href="https://samirpaul1.github.io/contact"><b>Contact Me</b>.</a>
+  statment: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <i class="fas fa-paper-plane" aria-hidden="true"></i> <a href="https://samirpaul1.github.io/contact"><b>Contact Me</b>.</a>
 
 notification:
   update_found: <b>A new version of content is available.</b>
