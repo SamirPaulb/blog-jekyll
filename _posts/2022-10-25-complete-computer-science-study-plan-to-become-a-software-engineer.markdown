@@ -8,7 +8,7 @@ image:
   height: 198
   alt: Complete Computer Science Study Plan to Become a Software Engineer
 categories: [Computer Science]
-tags: [blog, coding, computer-science, coding, study-plan, software-engineer, developer]
+tags: [blog, coding, computer-science, study-plan, software-engineer, developer]
 published: true
 sitemap: true
 pin: false

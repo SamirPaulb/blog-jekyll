@@ -8,7 +8,7 @@ image:
   height: 198
   alt: Curated List of Project Based Tutorials
 categories: [Projects]
-tags: [blog, coding, computer-science, coding,computer-science,projects,tutorials,list-of-project-based-tutorials]
+tags: [blog, coding, computer-science,projects,tutorials,list-of-project-based-tutorials]
 published: true
 sitemap: true
 pin: false

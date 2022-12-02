@@ -8,7 +8,7 @@ image:
   height: 198
   alt: Lists of Technical Interview Questions
 categories: [Technical Interview]
-tags: [blog, coding, computer-science, coding,computer-science,android,angularjs,angular,backbonejs,cpp,c,dotnet,clojure,css,django,elastic,emberjs,erlang,golang,graphql,html,ionic,ios,java,javascript,jquery,front-end,knockoutjs,less,lisp,nodejs,objective-c,php,python,reactjs,rails,ruby,rust,sass,scala,shell,spark,swift,vuejs,wordpress,typescript]
+tags: [blog, coding, computer-science,android,angularjs,angular,backbonejs,cpp,c,dotnet,clojure,css,django,elastic,emberjs,erlang,golang,graphql,html,ionic,ios,java,javascript,jquery,front-end,knockoutjs,less,lisp,nodejs,objective-c,php,python,reactjs,rails,ruby,rust,sass,scala,shell,spark,swift,vuejs,wordpress,typescript]
 published: true
 sitemap: true
 pin: false
