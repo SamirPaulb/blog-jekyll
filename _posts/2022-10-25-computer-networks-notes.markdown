@@ -1820,5 +1820,5 @@ Routers network addressing is hierarchical, packets do not normally cycle and th
 
 ### PDF Note👇
 
-<object data="/assets/doc/computer_networking_notes_for_tech_placements.pdf" type="application/pdf" width="100%" height="700px">
+<object data="/assets/doc/computer_networking_notes_for_tech_placements.pdf" loading="lazy" type="application/pdf" width="100%" height="700px">
 </object>
