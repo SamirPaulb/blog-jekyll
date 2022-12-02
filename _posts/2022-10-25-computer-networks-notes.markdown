@@ -8,7 +8,7 @@ image:
   height: 198
   alt: Computer Networks Notes
 categories: [Computer Science]
-tags: [blog, coding, computer-science, computer-science,computer-networks,computer-networks-notes,notes,computernetwork,computernetworking,computer,ipv,icnd,computertechnology,ccna,routingandswitching,networking,osi-model,computernetworkingtechnology]
+tags: [blog, coding, computer-science, computer-networks,computer-networks-notes,notes,computernetwork,computernetworking,computer,ipv,icnd,computertechnology,ccna,routingandswitching,networking,osi-model,computernetworkingtechnology]
 published: true
 sitemap: true
 pin: false
