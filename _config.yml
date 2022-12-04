@@ -139,19 +139,19 @@ pwa:
   enabled: true   # the option for PWA feature
 
 
-gzip:
-  extensions:
-    - '.css'
-    - '.html'
-    - '.js'
-    - '.json'
-    - '.txt'
-    - '.ttf'
-    - '.atom'
-    - '.stl'
-    - '.xml'
-    - '.svg'
-    - '.eot'
+# gzip:
+#   extensions:
+#     - '.css'
+#     - '.html'
+#     - '.js'
+#     - '.json'
+#     - '.txt'
+#     - '.ttf'
+#     - '.atom'
+#     - '.stl'
+#     - '.xml'
+#     - '.svg'
+#     - '.eot'
 
 # jekyll-compress-images plugin
 # compress_images:
@@ -206,23 +206,23 @@ defaults:
   - scope:
       path: assets/js/dist
     values:
-      swcache: true
-
+      swcache: true 
+    
 # ---- Jekyll-Compose ---------
-jekyll_compose:
-  default_front_matter: 
-    posts:
-      description: New Post Title 
-      image:
-        path: /assets/img/blog-featured-image.webp
-        width: 661    # in pixels
-        height: 132   # in pixels
-        alt: New Post Title     
-      category: [Blog]
-      tags: [blog, coding, computer-science]
-      published: true
-      sitemap: true
-      pin: false
+# jekyll_compose:
+#   default_front_matter: 
+#     posts:
+#       description: New Post Title 
+#       image:
+#         path: /assets/img/blog-featured-image.webp
+#         width: 661    # in pixels
+#         height: 132   # in pixels
+#         alt: New Post Title     
+#       category: [Blog]
+#       tags: [blog, coding, computer-science]
+#       published: true
+#       sitemap: true
+#       pin: false
 
 
 sass:
@@ -235,7 +235,7 @@ compress_html:
   profile: false
   blanklines: false
   ignore:
-    envs: [development]
+    envs: []
 
 exclude:
   - '*.gem'
@@ -261,16 +261,16 @@ jekyll-archives:
 
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
   - jekyll-target-blank
-  - jekyll-gzip
   - jekyll-loading-lazy
   
+  # - jekyll-seo-tag
+  # - jekyll-feed
+  # - jekyll-paginate
+  # - jekyll-sitemap
+  # - jekyll-gzip
   # - jekyll-compress-images
   # - amp-jekyll
