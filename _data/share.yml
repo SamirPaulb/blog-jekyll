@@ -8,17 +8,21 @@ platforms:
     link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
   -
     type: Facebook
-    icon: "fab fa-facebook-square"
+    icon: "fab fa-facebook"
     link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
   -
     type: LinkedIn
     icon: "fab fa-linkedin"
     link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
   -
+    type: Reddit
+    icon: "fab fa-reddit"
+    link: "https://www.reddit.com/submit?url=URL&title=TITLE"
+  -
     type: Telegram
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
   -
     type: WhatsApp
-    icon: "fab fa-whatsapp-square"
+    icon: "fab fa-whatsapp"
     link: "https://api.whatsapp.com/send?text=URL"
