@@ -59,6 +59,12 @@
   document.oncontextmenu = mischandler;
   document.onmousedown = mousehandler;
   document.onmouseup = mousehandler;
+  function disableContextMenu()
+    {
+      window.frames["fraDisabled"].document.oncontextmenu = function(){alert("No way!"); return false;};   
+      // Or use this
+      // document.getElementById("fraDisabled").contentWindow.document.oncontextmenu = function(){alert("No way!"); return false;};;    
+    } 
   </script>
 
 
