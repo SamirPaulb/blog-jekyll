@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 
@@ -7,8 +8,10 @@
 <link rel="shortcut icon" href="assets/img/favicon.ico">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<META NAME="robots" CONTENT="noindex,nofollow">
 
-<script src="https://www.google.com/recaptcha/api.js?6LfmQpYhAAAAAGh2UCvKv34iACF8kFdiZ7OQLaxS"></script>
+<script src="https://www.google.com/recaptcha/api.js?6LcLa2sjAAAAAN1AJpqsqP-kjK2AWlW894vq9feN"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.js"></script>
 	
 	<style type="text/css">
 		html {
@@ -32,10 +35,114 @@
 			overflow-y: auto;
 			overflow-x: hidden;
 		}
-	</style>
+        #overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #000;
+        filter:alpha(opacity=70);
+        -moz-opacity:0.9;
+        -khtml-opacity: 0.9;
+        opacity: 0.9;
+        z-index: 100;
+        display: none;
+        }
+        .cnt223 a{
+        text-decoration: none;
+        }
+        .popup{
+        width: 100%;
+        margin: 0 auto;
+        display: none;
+        position: fixed;
+        z-index: 101;
+        }
+        .cnt223{
+        min-width: 600px auto;
+        width: 720px;
+        min-height: 150px auto;
+        margin: 75px auto;
+        background: #f3f3f3;
+        position: relative;
+        z-index: 103;
+        padding: 10px 35px;
+        border-radius: 15px;
+        box-shadow: 0 2px 5px #000;
+        }
+        .cnt223 p{
+        clear: both;
+            color: #555555;
+            /* text-align: justify; */
+            font-size: 20px;
+            font-family: sans-serif;
+        }
+        .cnt223 p a{
+        color: #d91900;
+        font-weight: bold;
+        }
+        .cnt223 .x{
+        float: right;
+        height: 35px;
+        left: 22px;
+        position: relative;
+        top: -25px;
+        width: 34px;
+        }
+        .cnt223 .x:hover{
+        cursor: pointer;
+        }
+    </style>
+
+<script type='text/javascript'>
+    $(function(){
+    var overlay = $('<div id="overlay"></div>');
+    overlay.show();
+    overlay.appendTo(document.body);
+    $('.popup').show();
+    $('.close').click(function(){
+    $('.popup').hide();
+    overlay.appendTo(document.body).remove();
+    return false;
+    });
+    
+    
+     
+    
+    $('.x').click(function(){
+    $('.popup').hide();
+    overlay.appendTo(document.body).remove();
+    return false;
+    });
+    });
+    </script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SRW1SPTVJX"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-SRW1SPTVJX');
+    </script>
+
 </head>
 
 <body>
+    <noscript title="No JavaScript Support"> <h1>You need to enable JavaScript to run this app.</h1> </noscript>
+    <div class='popup'>
+        <div class='cnt223'>
+        <p>
+        Looking for an opportunity to work in a challenging position combining my skills in Software Engineering, which provides professional development and personal growth.
+        <br/>
+        <br/>
+        <a href='' class='close'><b><u>View Resume</u></b></a>
+        </p>
+        </div>
+        </div>
+
 	<iframe src="https://drive.google.com/file/d/149IhiJlfOfJRDIrKeD-cZrxQrQWhUQ7K/preview"
 			frameborder="0"
 			marginheight="0"
