@@ -1,6 +1,6 @@
 ---
 layout: archives
-title: Blog Posts
+title: Blog 
 icon: fab fa-blogger-b
 order: 2
 ---
