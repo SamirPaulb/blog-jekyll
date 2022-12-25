@@ -262,7 +262,7 @@ jekyll-archives:
 
 plugins:
   - jekyll-seo-tag
-#   - jekyll-feed
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
