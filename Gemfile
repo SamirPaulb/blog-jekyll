@@ -31,7 +31,7 @@ gem 'jekyll-include-cache'
 gem 'thor'
 gem 'stringex'
 gem 'jekyll-loading-lazy'
-
+gem 'liquid', '~> 3.0', '>= 3.0.6'
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'jekyll-feed'
 gem 'jekyll-sitemap'
