@@ -5,47 +5,47 @@ webfonts: "#"  # /assets/static/fonts/main.css
 # Libraries
 
 jquery:
-  js: /assets/static/jquery-3.6.0/jquery.min.js
+  js: /assets/static/jquery/jquery.min.js
 
 bootstrap:
-  css: /assets/static/bootstrap-4.6.1/bootstrap.min.css
-  js: /assets/static/bootstrap-4.6.1/bootstrap.bundle.min.js
+  css: /assets/static/bootstrap/bootstrap.min.css
+  js: /assets/static/bootstrap/bootstrap.bundle.min.js
 
 bootstrap-toc:
-  css: /assets/static/bootstrap-toc-1.0.1/bootstrap-toc.min.css
-  js: /assets/static/bootstrap-toc-1.0.1/bootstrap-toc.min.js
+  css: /assets/static/bootstrap-toc/bootstrap-toc.min.css
+  js: /assets/static/bootstrap-toc/bootstrap-toc.min.js
 
 fontawesome:
-  css: /assets/static/fontawesome-free-5.15.4/css/all.min.css
+  css: /assets/static/fontawesome-free/css/all.min.css
 
 search:
-  js: /assets/static/simple-jekyll-search-1.10.0/simple-jekyll-search.min.js
+  js: /assets/static/simple-jekyll-search/simple-jekyll-search.min.js
 
 mermaid:
-  js: /assets/static/mermaid-8.13.10/mermaid.min.js
+  js: /assets/static/mermaid/mermaid.min.js
 
 dayjs:
   js:
-    common: /assets/static/dayjs-1.10.7/dayjs.min.js
-    locale: /assets/static/dayjs-1.10.7/locale/en.min.js
-    relativeTime: /assets/static/dayjs-1.10.7/plugin/relativeTime.min.js
-    localizedFormat: /assets/static/dayjs-1.10.7/plugin/localizedFormat.min.js
+    common: /assets/static/dayjs/dayjs.min.js
+    locale: /assets/static/dayjs/locale/en.min.js
+    relativeTime: /assets/static/dayjs/plugin/relativeTime.min.js
+    localizedFormat: /assets/static/dayjs/plugin/localizedFormat.min.js
 
 countup:
-  js: /assets/static/countup.js-1.9.3/countUp.min.js
+  js: /assets/static/countup.js/countUp.min.js
 
 magnific-popup:
-  css: /assets/static/magnific-popup-1.1.0/magnific-popup.css
-  js: /assets/static/magnific-popup-1.1.0/jquery.magnific-popup.min.js
+  css: /assets/static/magnific-popup/magnific-popup.css
+  js: /assets/static/magnific-popup/jquery.magnific-popup.min.js
 
 lozad:
-  js: /assets/static/lozad-1.16.0/lozad.min.js
+  js: /assets/static/lozad/lozad.min.js
 
 clipboard:
-  js: /assets/static/clipboard-2.0.9/clipboard.min.js
+  js: /assets/static/clipboard/clipboard.min.js
 
 polyfill:
-  js: /assets/static/polyfill-v3-es6/polyfill.min.js
+  js: /assets/static/polyfill/polyfill.min.js
 
 mathjax:
-  js: "#"  # /assets/static/mathjax-3.2.0/tex-chtml.js
+  js: "#"  # /assets/static/mathjax/tex-chtml.js
