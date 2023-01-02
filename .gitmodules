@@ -1,4 +1,0 @@
-# I have stored all static files inside assets/static directory. So no need to use git submodules
-[submodule "assets/lib"]
-	path = assets/lib
-	url = https://github.com/SamirPaulb/chirpy-static-assets
