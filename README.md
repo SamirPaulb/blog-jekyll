@@ -1,7 +1,7 @@
-### **SamirPaul1.github.io** [![Build and deploy](https://github.com/SamirPaul1/SamirPaul1.github.io/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/SamirPaul1/SamirPaul1.github.io/actions/workflows/pages-deploy.yml)
+### **samirpaulb.github.io** [![Build and deploy](https://github.com/SamirPaulb/samirpaulb.github.io/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/SamirPaulb/samirpaulb.github.io/actions/workflows/pages-deploy.yml)
 
 
-Live Demo:  **https://samirpaul1.github.io** 
+Live Demo:  **https://samirpaulb.github.io** 
 
 
 
