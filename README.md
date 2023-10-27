@@ -1,4 +1,4 @@
-### **samirpaulb.github.io** [![Build and deploy](https://github.com/SamirPaulb/samirpaulb.github.io/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/SamirPaulb/samirpaulb.github.io/actions/workflows/pages-deploy.yml)
+### **samirpaulb.github.io** [![Build and deploy](https://github.com/SamirPaulb/blog-jekyll/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/SamirPaulb/samirpaulb.github.io/actions/workflows/pages-deploy.yml)
 
 
 Live Demo:  **https://samirpaulb.github.io** 
